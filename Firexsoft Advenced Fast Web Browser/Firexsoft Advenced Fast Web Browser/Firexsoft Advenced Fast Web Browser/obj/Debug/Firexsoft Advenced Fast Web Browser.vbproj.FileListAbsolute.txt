@@ -1,0 +1,40 @@
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.exe.config
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form1.resources
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Resources.resources
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.vbproj.GenerateResource.Cache
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.exe
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.pdb
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.xml
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.exe
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.xml
+C:\Users\23\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.pdb
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.exe.config
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.exe
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.xml
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.pdb
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.exe
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.pdb
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.xml
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form1.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Resources.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.vbproj.GenerateResource.Cache
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form2.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form3.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form4.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.exe.config
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.exe
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.pdb
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\bin\Debug\Firexsoft Advenced Fast Web Browser.xml
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.vbprojResolveAssemblyReference.cache
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form1.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form2.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form3.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Form4.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.FrmEdit.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft_Advenced_Fast_Web_Browser.Resources.resources
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.vbproj.GenerateResource.Cache
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.vbproj.CoreCompileInputs.cache
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.exe
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.xml
+C:\Users\firex\Desktop\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\Firexsoft Advenced Fast Web Browser\obj\Debug\Firexsoft Advenced Fast Web Browser.pdb
